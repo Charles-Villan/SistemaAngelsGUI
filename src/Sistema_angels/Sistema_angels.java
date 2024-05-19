@@ -10,7 +10,6 @@ import Controlador.reg_personal;
 import Modelo.Validaciones;
 import static Modelo.Validaciones.fechaActual;
 import Vista.loginW;
-import Vista.login;
 import Vista.menu_principal;
 import Vista.vntana_crear_user;
 import java.text.ParseException;
